@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color:white;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    border-color: black;
+    border-style: solid;
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+}
